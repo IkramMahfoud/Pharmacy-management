@@ -1,0 +1,2 @@
+# Pharmacy-management
+language C
